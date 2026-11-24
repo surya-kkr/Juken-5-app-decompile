@@ -1,0 +1,2 @@
+- [x] Add package declaration to `PermissionScreen.kt`
+- [x] Verify build

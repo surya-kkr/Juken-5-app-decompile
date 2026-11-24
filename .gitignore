@@ -1,0 +1,14 @@
+# Android/Gradle generated files
+**/build/
+**/.gradle/
+**/.kotlin/
+**/captures/
+**/local.properties
+
+# IDE metadata
+**/.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
